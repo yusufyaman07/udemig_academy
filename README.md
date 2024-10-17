@@ -1,7 +1,5 @@
 # Udemig Academy
 
-![udemig-logo](https://github.com/user-attachments/assets/c5ada643-ae34-413c-a43c-0f936be04226)
-
 Welcome to the Udemig Academy Website repository! This project is a single-page website designed using HTML and CSS, with interactive elements and hover effects. The site is fully responsive, providing a smooth user experience across devices.
 
 
